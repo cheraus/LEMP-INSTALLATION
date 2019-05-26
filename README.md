@@ -1,7 +1,9 @@
 # LEMP-INSTALLATION
 
 **To update the linux packages**
+
 apt update
+
 
 **To install the nginx**
 
